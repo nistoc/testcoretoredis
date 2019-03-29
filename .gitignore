@@ -1,0 +1,10 @@
+
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+.vs/CoreToRedis/v15/.suo
+*.dll
+*.json
+bin/
+obj/
