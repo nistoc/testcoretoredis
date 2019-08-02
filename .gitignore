@@ -3,8 +3,7 @@
 *.ide
 *.ide-shm
 *.ide-wal
-.vs/CoreToRedis/v15/.suo
+*.suo
 *.dll
-*.json
 bin/
 obj/
